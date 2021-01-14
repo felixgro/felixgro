@@ -10,7 +10,7 @@ I'm **Felix Grohs**, a certified fullstack Web Developer and selftaught UI/UX De
 - HTML5
 
 #### Currently learning:
-- 🎮 Game Development in C# (Unity)
+- 🎮 Game Development in Unity (C#)
 - 🐍 Python for Web Development
 
 #### Other Hobbies:
