@@ -1,7 +1,6 @@
 ### Nice to meet you 👋
 
-My name is Felix Grohs.
-I'm a certified fullstack Web Developer and selftaught UI/UX Designer based in Vienna, Austria.
+I'm Felix Grohs, a certified **fullstack Web Developer** and selftaught **UI/UX Designer** based in Vienna, Austria.
 
 #### Web Skillset:
 - PHP (Laravel, Symfony, Fatfree)
