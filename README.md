@@ -18,12 +18,6 @@ Other Hobbies:
 - 🎥 Motion Design
 - 📷 Photography
 
-Programs I'm familiar with:
-- Visual Studio Code, Sublime Text, Atom
-- Adobe Photoshop, Illustrator, XD, After Effects, Premiere Pro
-- TablePlus, MongoDB Compass, phpMyAdmin
-- XCode for iOS testing
-
 <!--
 **felixgro/felixgro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
