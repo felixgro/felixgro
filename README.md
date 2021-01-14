@@ -17,6 +17,7 @@ I'm **Felix Grohs**, a certified fullstack Web Developer and selftaught UI/UX De
 - 🎥 Motion Design
 - 📷 Photography
 
+<sub>Or this?</sub>
 [Behance](https://www.behance.net/felixgrohs) | [Twitter](https://twitter.com/FelixGrohs)
 
 <!--
