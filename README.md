@@ -4,8 +4,8 @@ I'm **Felix Grohs** - a certified fullstack Web Developer and selftaught UI/UX D
 
 #### Web Skillset:
 - 🐘 PHP (Laravel, Symfony, Fatfree)
-- ⚡ Node.js (Webpack, Express, Socket.io)
-- 🦾 Javascript (Vue, P5, GSAP)
+- 🦾 Node.js (Webpack, Express, Socket.io)
+- ⚡ Javascript (Vue, P5, GSAP)
 - 🖌️ CSS3 (Sass, Tailwind)
 - 🏗️ HTML5
 
