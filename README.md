@@ -17,8 +17,10 @@ I'm **Felix Grohs**, a certified fullstack Web Developer and selftaught UI/UX De
 - 🎥 Motion Design
 - 📷 Photography
 
-<sub>Or this?</sub>
+<sub>
 [Behance](https://www.behance.net/felixgrohs) | [Twitter](https://twitter.com/FelixGrohs)
+</sub>
+
 
 <!--
 **felixgro/felixgro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
