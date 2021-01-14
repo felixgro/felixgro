@@ -3,18 +3,18 @@
 My name is Felix Grohs.
 I'm a certified fullstack Web Developer and selftaught UI/UX Designer based in Vienna, Austria.
 
-Web Skillset:
+#### Web Skillset:
 - PHP (Laravel, Symfony, Fatfree)
 - Node.js (Webpack, Express, Socket.io)
 - Javascript (Vue, P5, GSAP)
 - CSS3 (Sass, Tailwind)
 - HTML5
 
-Currently learning:
+#### Currently learning:
 - 🎮 Game Development in C# (Unity)
 - 🐍 Python for Web Development
 
-Other Hobbies:
+#### Other Hobbies:
 - 🎥 Motion Design
 - 📷 Photography
 
