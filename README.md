@@ -1,4 +1,28 @@
-### Hi there 👋
+### Nice to meet you 👋
+
+My name is Felix Grohs.
+I'm a certified fullstack Web Developer and selftaught UI/UX Designer based in Vienna, Austria.
+
+Web Skillset:
+- PHP (Laravel, Symfony, Fatfree)
+- Node.js (Webpack, Express, Socket.io)
+- Javascript (Vue, P5, GSAP)
+- CSS3 (Sass, Tailwind)
+- HTML5
+
+Currently learning:
+- 🎮 Game Development in C# (Unity)
+- 🐍 Python for Web Development
+
+Other Hobbies:
+- 🎥 Motion Design
+- 📷 Photography
+
+Programs I'm familiar with:
+- Visual Studio Code, Sublime Text, Atom
+- Adobe Photoshop, Illustrator, XD, After Effects, Premiere Pro
+- TablePlus, MongoDB Compass, phpMyAdmin
+- XCode for iOS testing
 
 <!--
 **felixgro/felixgro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
