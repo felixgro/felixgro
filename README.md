@@ -3,7 +3,7 @@
 I'm **Felix Grohs** - a certified fullstack Web Developer and selftaught UI/UX Designer based in Vienna, Austria.
 
 #### Web Skillset:
-- 🐘 PHP (Laravel, Symfony, Fatfree)
+- 🐘 PHP (Laravel, Symfony, Fatfree, PHPUnit)
 - 🗄️ MySQL (CLI, TablePlus, PhpMyAdmin)
 - 🦾 Node.js (Webpack, Express, Socket.io)
 - ⚡ Javascript (Vue, P5, GSAP)
@@ -12,6 +12,13 @@ I'm **Felix Grohs** - a certified fullstack Web Developer and selftaught UI/UX D
 
 #### Currently learning:
 - 🐍 Python for Web Development
+
+#### Tools I'm using:
+- Visual Studio Code
+- Ray
+- TablePlus, PHPMyAdmin
+- Laravel Valet
+- Notion
 
 #### Hobbies:
 - 🎮 Game Development in Unity (C#)
