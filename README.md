@@ -13,17 +13,17 @@ I'm **Felix Grohs** - a certified fullstack Web Developer and selftaught UI/UX D
 #### Currently learning:
 - 🐍 Python for Web Development
 
+#### Hobbies:
+- 🎮 Game Development in Unity (C#)
+- 🎥 Motion Design
+- 📷 Photography
+
 #### Tools I'm using:
 - Visual Studio Code
 - Ray
 - TablePlus, PHPMyAdmin
 - Laravel Valet
 - Notion
-
-#### Hobbies:
-- 🎮 Game Development in Unity (C#)
-- 🎥 Motion Design
-- 📷 Photography
 
 <sub>
   <a href="https://www.behance.net/felixgrohs">Behance</a> | <a href="https://vimeo.com/felixgrohs">Vimeo</a> | <a href="https://twitter.com/FelixGrohs">Twitter</a>
