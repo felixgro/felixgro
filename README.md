@@ -20,9 +20,9 @@ I'm **Felix Grohs** - a certified fullstack Web Developer and selftaught UI/UX D
 
 #### Tools I'm using:
 Visual Studio Code<br>
-Ray
-Tinkerwell
-TablePlus, PHPMyAdmin
+Ray<br>
+Tinkerwell<br>
+TablePlus, PHPMyAdmin<br>
 Laravel Valet
 
 <sub>
