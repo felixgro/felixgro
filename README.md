@@ -18,13 +18,6 @@ I'm **Felix Grohs** - a certified fullstack Web Developer and selftaught UI/UX D
 - 🎥 Motion Design
 - 📷 Photography
 
-#### Tools I'm using:
-- Visual Studio Code
-- Ray
-- Tinkerwell
-- TablePlus, PHPMyAdmin
-- Laravel Valet
-
 <sub>
   <a href="https://www.behance.net/felixgrohs">Behance</a> | <a href="https://vimeo.com/felixgrohs">Vimeo</a> | <a href="https://twitter.com/FelixGrohs">Twitter</a>
 </sub>
