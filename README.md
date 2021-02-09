@@ -19,7 +19,7 @@ I'm **Felix Grohs** - a certified fullstack Web Developer and selftaught UI/UX D
 - 📷 Photography
 
 #### Tools I'm using:
-Visual Studio Code \n
+Visual Studio Code<br>
 Ray
 Tinkerwell
 TablePlus, PHPMyAdmin
