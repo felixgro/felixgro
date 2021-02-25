@@ -7,8 +7,8 @@ I'm **Felix Grohs** - a certified fullstack Web Developer and selftaught UI/UX D
 - 🗄️ MySQL (CLI, TablePlus, PhpMyAdmin)
 - 🦾 Node.js (Webpack, Express, Socket.io)
 - ⚡ Javascript (Vue, P5, GSAP)
-- 🖌️ CSS3 (Sass, Tailwind)
-- 🏗️ HTML5
+- 🖌️ CSS (Sass, Tailwind)
+- 🏗️ HTML
 
 #### Hobbies:
 - 🎮 Game Development in Unity (C#)
