@@ -6,7 +6,7 @@ I'm **Felix Grohs** - a certified fullstack Web Developer and selftaught UI/UX D
 - 🐘 PHP (Laravel, Symfony, Fatfree, PHPUnit)
 - 🗄️ MySQL (CLI, TablePlus, PhpMyAdmin)
 - 🦾 Node.js (Webpack, Express, Socket.io)
-- ⚡ Javascript (Vue, P5, GSAP)
+- ⚡ Javascript (Typescript, Vue, P5, GSAP)
 - 🖌️ CSS (Sass, Tailwind)
 - 🏗️ HTML
 
